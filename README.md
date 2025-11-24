@@ -388,12 +388,12 @@ For every $1 spent acquiring a customer, generate at least $3 in lifetime value.
 
 ## 📝 License
 
-This project is created for educational purposes as part of the Scaler Companion ML System Design curriculum.
+This project is created for educational purposes as part of the ML System Design.
 
 ## 🙏 Acknowledgments
 
 - **Airbnb Engineering Team**: For sharing their ML system insights
-- **Scaler Academy**: For the comprehensive ML system design curriculum
+- For the comprehensive ML system design curriculum
 - **Open Source Community**: For the amazing tools and libraries
 
 ---
